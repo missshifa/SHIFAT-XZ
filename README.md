@@ -1,21 +1,29 @@
 ---------
 
-### 𝗦𝗜𝗙𝗨 𝗕𝗢𝗧 𝗙𝗢𝗥𝗞  🌺
+  ###     ⚡✨𝐒𝐇𝐈𝐅𝐀𝐓 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 𝐕3✨⚡
 
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`** 
 
 
 
 Assalamualaikum Everyone!  
-**Welcome to My 𝘀𝗶𝗳𝘂 BOT Fork!**
+**𝐖𝐄𝐋𝐂𝐎𝐌 𝐓𝐎 𝐌𝐘 𝐒𝐇𝐈𝐅𝐀𝐓 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 𝐕3 𝐅𝐎𝐑𝐊**
 
-![Box-shaped Image](https://i.imgur.com/K2Rgmw6.jpeg)
+![Box-shaped Image](https://i.imgur.com/DYNNSbX.jpeg)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="font-size: 24px; font-weight: bold;"> CHAT BOT</span><br>
-  <span> 𝗗𝗔𝗩𝗘𝗟𝗢𝗣 𝗕𝗬 𝗦𝗛𝗜𝗙𝗔𝗧</span>
+  <span style="font-size: 24px; font-weight: bold;">ALVI BOT COMMUNITY</span><br>
+  <span> Develop By ALVI ISLAM</span>
 </p>
 
+-------
+
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`𝐒𝐇𝐈𝐅𝐀𝐓+𝐆𝐎𝐀𝐓+𝐁𝐎𝐓+𝐕3`" alt="">
+
+<br>
+
+--------
 
 _______
 ### <br>   ❖ DEPLOY_WORKFLOWS ❖
@@ -136,15 +144,15 @@ ___
 
 ## 👨‍💻 **ABOUT THE DEVELOPER**  
   
-**Name:** **`SHIFAT`**  
-**Nice Name:** **`SIFU`**  
-**Profession:** **` CHATBOT DEVELOPER`**  
-**Location:** **`KHULNA, BANGLADESH`**  
+**Name:** **`ALVI ISLAM`**  
+**Nice Name:** **`ALVI`**  
+**Profession:** **`ENGINEER & CHATBOT DEVELOPER`**  
+**Location:** **`TANGAIL, BANGLADESH`**  
 
 ### 📞 **CONTACT INFORMATION**  
-- **WhatsApp:** **[01964467614](https://wa.me/+01964467614)**  
-- **Facebook:** **[Facebook ID](https://facebook.com/100078859776449)**  
-- **Messenger:** **[Message Me](https://m.me/100078859776449)**  
+- **WhatsApp:** **[+966505748978](https://wa.me/+966505748978)**  
+- **Facebook:** **[Facebook ID](https://facebook.com/100082607436864)**  
+- **Messenger:** **[Message Me](https://m.me/100082607436864)**  
 
 ### 🚀 **DEVELOPMENT APPROACH**  
 - 💻 **Copy-paste techniques with customizations**  
@@ -165,10 +173,10 @@ If you need any help, you can contact the admin.
 Please do not disturb the admin unless you have a special need. Thank you! 
 
 <p align="center">
-  <a href="https://wa.me/+8801964467614?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
+  <a href="https://wa.me/+966505748978?text=AssalamuAlaikum%20Admin%20ALVI%20ISLAM%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://m.me/100078859776449">
+  <a href="https://m.me/100082607436864">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
@@ -177,15 +185,15 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 ## ✨🌟 Special Thanks 🌟✨
 
-- 🚀 **Cyber Bot Team**  
-- 🧙‍♂️ **Ullash (Owner Cyber Bot Team)**
-- 🛡️ **Sujon (Admin Cyber Bot Team)**
+- 🚀 **ALVI BOT COMMUNITY**  
+- 🧙‍♂️ **ALVI ISLAM (Owner Alvi Bot Community)**
+- 🛡️ **Sujon (Helper Alvi Bot Community)**
 - 🎓 **Grandpa EJ (Owner Grandpa Academy)** 
 
 ---
 
-💖 **Thank You For Choosing 𝗦𝗜𝗙𝗨 𝗕𝗼𝘁!**  
-🗓️ *Release Date:* `08/09/2025 at 08:30`  
+💖 **Thank You For Choosing 𝗔𝗹𝘃𝗶 𝗕𝗼𝘁 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆!**  
+🗓️ *Release Date:* `30/09/2025 at 12:00`  
 ⭐ **Please don't forget to give a star after forking! It really helps!**
 
 ---
@@ -195,11 +203,11 @@ Please do not disturb the admin unless you have a special need. Thank you!
 </p>
 
 <p align="center">
-  <a href="https://github.com/shahadat-sahu"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
-  <a href="https://wa.me/+8801882333052"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
-  <a href="https://facebook.com/100001039692046"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
-  <a href="https://t.me/+8EtzLXVG-REwYTM1"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
-  <a href="https://youtube.com/@cyberbotcommunity"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
+  <a href="https://github.com/alvi-boss"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
+  <a href="https://wa.me/+966505748978"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
+  <a href="https://facebook.com/100082607436864"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
+  <a href="https://t.me/AKPremiumZone"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
+  <a href="https://youtube.com/@SAUniqueBro"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
 </p>
 
-**I hope you enjoy my fork! Thank you for supporting the 𝘀𝗶𝗳𝘂 chat bot!**
+**I hope you enjoy my fork! Thank you for supporting the cyber chat bot community!**
