@@ -9,7 +9,7 @@
 Assalamualaikum Everyone!  
 **𝐖𝐄𝐋𝐂𝐎𝐌 𝐓𝐎 𝐌𝐘 𝐒𝐇𝐈𝐅𝐀𝐓 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 𝐕3 𝐅𝐎𝐑𝐊**
 
-![Box-shaped Image](https://i.imgur.com/K2Rgmw6.jpeg)
+![Box-shaped Image](https://i.imgur.com/yhHIP5v.jpeg)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <span style="font-size: 24px; font-weight: bold;">ALVI BOT COMMUNITY</span><br>
