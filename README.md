@@ -89,53 +89,6 @@ Play 20+ fun games directly in messenger, no installation hassle!
 Surprise your friends with hundreds of fun commands!  
 ___
 
-<div style="max-width: 500px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-
-  <h2 style="text-align: center; margin-bottom: 30px;">How to Use These Platforms</h2>
-
-  <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-    <img src="https://img.icons8.com/color/48/000000/replit.png" alt="Replit" style="margin-right: 20px; flex-shrink: 0;" />
-    <div>
-      <h3 style="margin: 0 0 8px;">Replit</h3>
-      <p style="margin: 0;">
-        Replit is an online coding environment that lets you write, run, and test code directly from your browser without any setup.  
-        Simply sign up for a free account, create a new project (called a “Repl”), and start coding in languages like JavaScript, Python, C++, and many more.  
-        It’s perfect for quick prototyping, learning programming, or collaborating with others in real-time.  
-        You can also host simple web apps and share your projects with a public URL instantly.
-      </p>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-    <img src="https://img.icons8.com/fluency/48/000000/cloud.png" alt="Render" style="margin-right: 20px; flex-shrink: 0;" />
-    <div>
-      <h3 style="margin: 0 0 8px;">Render</h3>
-      <p style="margin: 0;">
-        Render is a cloud hosting platform that allows you to deploy websites, APIs, and applications easily without worrying about server management.  
-        After developing your app locally or on Replit, you can push your code to Render for continuous deployment.  
-        It supports popular frameworks, automatic SSL, custom domains, and background workers.  
-        This platform is ideal for developers who want hassle-free hosting with scalable resources.
-      </p>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" style="margin-right: 20px; flex-shrink: 0;" />
-    <div>
-      <h3 style="margin: 0 0 8px;">GitHub</h3>
-      <p style="margin: 0;">
-        GitHub is a web-based platform for version control and collaborative code management using Git.  
-        It lets you store your code repositories securely, track changes, and collaborate with other developers through pull requests and issues.  
-        GitHub also supports project documentation via README files and wikis, and it integrates with many CI/CD tools to automate workflows.  
-        Use GitHub to manage your projects efficiently and share your code with the developer community.
-      </p>
-    </div>
-  </div>
-
-</div>
-
-
-
 
 ---
 
@@ -144,15 +97,17 @@ ___
 
 ## 👨‍💻 **ABOUT THE DEVELOPER**  
   
-**Name:** **`ALVI ISLAM`**  
-**Nice Name:** **`ALVI`**  
-**Profession:** **`ENGINEER & CHATBOT DEVELOPER`**  
-**Location:** **`TANGAIL, BANGLADESH`**  
+**Name:** **`𝐌𝐃 𝐒𝐇𝐈𝐅𝐀𝐓`**  
+**Nice Name:** **`𝐒𝐈𝐅𝐔`**  
+**Profession:** **`𝐎𝐍𝐋𝐈𝐍 𝐌𝐀𝐑𝐊𝐄𝐓𝐈𝐍𝐆 & 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑`**  
+**Location:** **`𝐊𝐇𝐔𝐋𝐍𝐀 <> 𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇`**  
 
 ### 📞 **CONTACT INFORMATION**  
-- **WhatsApp:** **[+966505748978](https://wa.me/+966505748978)**  
-- **Facebook:** **[Facebook ID](https://facebook.com/100082607436864)**  
-- **Messenger:** **[Message Me](https://m.me/100082607436864)**  
+- **WhatsApp:** **[+88](https://wa.me/+8801964467614)**  
+- **Facebook:** **[Facebook ID](https://facebook.com/100078859776449)**  
+- **Messenger:** **[Message Me](https://m.me/100078859776449)**
+
+- 
 
 ### 🚀 **DEVELOPMENT APPROACH**  
 - 💻 **Copy-paste techniques with customizations**  
@@ -173,23 +128,20 @@ If you need any help, you can contact the admin.
 Please do not disturb the admin unless you have a special need. Thank you! 
 
 <p align="center">
-  <a href="https://wa.me/+966505748978?text=AssalamuAlaikum%20Admin%20ALVI%20ISLAM%20Need%20Help%20Please%20Brother%20🫶">
+  <a href="https://wa.me/+8801964467614?text=AssalamuAlaikum%20Admin%20ALVI%20ISLAM%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://m.me/100082607436864">
+  <a href="https://m.me/100078859776449">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
 
 ---
 
-## ✨🌟 Special Thanks 🌟✨
+## ✨ Special Thanks ✨
 
-- 🚀 **ALVI BOT COMMUNITY**  
-- 🧙‍♂️ **ALVI ISLAM (Owner Alvi Bot Community)**
-- 🛡️ **Sujon (Helper Alvi Bot Community)**
-- 🎓 **Grandpa EJ (Owner Grandpa Academy)** 
-
+- 😁 ** 𝐍𝐓𝐊 𝐁𝐎𝐓 𝐌𝐀𝐈𝐍 𝐎𝐖𝐍𝐄𝐑**  
+- 😜 **𝐌𝐃 𝐒𝐇𝐈𝐅𝐀𝐓 (𝐒𝐇𝐈𝐅𝐀𝐓 𝐆𝐎𝐀𝐓 𝐕3)**
 ---
 
 💖 **Thank You For Choosing 𝗔𝗹𝘃𝗶 𝗕𝗼𝘁 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆!**  
