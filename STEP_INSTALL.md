@@ -5,7 +5,7 @@
 <div align="center">
 	<a href="https://www.youtube.com/watch?v=grVeZ76HlgA"><img src="https://img.youtube.com/vi/grVeZ76HlgA/maxresdefault.jpg" width="400"></a>
 </div>
-
+__
 * If you want to install Goat Bot V2 on vps/computer, please follow the guide below:
 <div align="center">
 	<a href="https://www.youtube.com/watch?v=uCbSYNQNEwY"><img src="https://img.youtube.com/vi/uCbSYNQNEwY/maxresdefault.jpg" width="400"></a>
