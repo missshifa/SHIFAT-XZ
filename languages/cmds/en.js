@@ -28,7 +28,7 @@ module.exports = {
 		guide: "   {pn} [add | -a] <uid>: Add admin role for user\n\t  {pn} [remove | -r] <uid>: Remove admin role of user\n\t  {pn} [list | -l]: List all admins",
 		text: {
 			added: "✅ | Added admin role for %1 users:\n%2",
-			alreadyAdmin: "\n⚠️ | %1 users already have admin role:\n%2",
+			alreadyAdmin: "\n | %1 users already have admin role:\n%2",
 			missingIdAdd: "⚠️ | Please enter ID or tag user to add admin role",
 			removed: "✅ | Removed admin role of %1 users:\n%2",
 			notAdmin: "⚠️ | %1 users don't have admin role:\n%2",
