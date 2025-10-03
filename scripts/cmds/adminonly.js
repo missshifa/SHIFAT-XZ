@@ -5,7 +5,7 @@ const { client } = global;
 module.exports = {
 	config: {
 		name: "adminonly",
-		aliases: ["adonly", "onlyad", "onlyadmin"],
+		aliases: ["adonly", "onlyad", "onadmin"],
 		version: "1.5",
 		author: "NTKhang",
 		countDown: 5,
