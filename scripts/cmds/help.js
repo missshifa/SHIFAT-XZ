@@ -9,7 +9,7 @@ module.exports = {
   config: {
     name: "help",
     version: "1.17",
-    author: "messie osango",
+    author: "SHIFAT",
     countDown: 10,
     role: 0,
     shortDescription: {
@@ -59,7 +59,7 @@ module.exports = {
       });
 
       const totalCommands = commands.size;
-      msg += `\n│\n│ CONTACT messie osango  page   FACEBOOK:\n│\n│ https://www.facebook.com/profile.php?id=61568305950691\n│\n│ ╰──────⌾⋅ ⌾ ⋅⌾──────╯\n│ 𝑀𝐸𝑆𝑆𝐼𝐸 𝑂𝑆𝐴𝑁𝐺𝑂 ✯`;
+      msg += `\n│\n│ CONTACT FACEBOOK:\n│\n│ https://www.facebook.com/profile.php?id=61568305950691\n│\n│ ╰──────⌾⋅ ⌾ ⋅⌾──────╯\n│ 𝑀𝐸𝑆𝑆𝐼𝐸 𝑂𝑆𝐴𝑁𝐺𝑂 ✯`;
 
       await message.reply(msg);
     } else {
