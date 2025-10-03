@@ -145,7 +145,7 @@ Please do not disturb the admin unless you have a special need. Thank you!
 ---
 
 💖 **Thank You For Choosing 𝗔𝗹𝘃𝗶 𝗕𝗼𝘁 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆!**  
-🗓️ *Release Date:* `30/09/2025 at 12:00`  
+🗓️ *Release Date:* `03/10/2025 at 12:00`  
 ⭐ **Please don't forget to give a star after forking! It really helps!**
 
 ---
