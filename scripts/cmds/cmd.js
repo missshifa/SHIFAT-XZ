@@ -33,7 +33,7 @@ module.exports = {
 		role: 2,
 		description: {
 			vi: "Quản lý các tệp lệnh của bạn",
-			en: "Manage your command files"
+			en: "Manage your command files "
 		},
 		category: "owner",
 		guide: {
