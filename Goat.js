@@ -10,7 +10,7 @@
  * ! If you change it, you will be banned forever
  * Thank you for using
  *
- * Vietnamese:
+ * Vietnamese: 
  * ! Vui lòng không thay đổi mã bên dưới, nó rất quan trọng đối với dự án.
  * Nó là động lực để tôi duy trì và phát triển dự án miễn phí.
  * ! Nếu thay đổi nó, bạn sẽ bị cấm vĩnh viễn
