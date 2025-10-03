@@ -39,4 +39,4 @@ module.exports = {
 		}
 		message.reply({ body, mentions });
 	}
-};
+}; 
