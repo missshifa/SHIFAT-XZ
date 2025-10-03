@@ -81,7 +81,7 @@ module.exports = async function ({ api, threadModel, userModel, dashBoardModel, 
 		else if (error.stack)
 			highlightCode = error.stack;
 
-		const MAX_LENGTH_DISCORD_MESSAGE = 2000; // 2000 is max length of message in discord webhook
+		const MAX_LENGTH_DISCORD_MESSAGE = 2000; // 2000  is max length of message in discord webhook
 		if (highlightCode.length + contentLength > MAX_LENGTH_DISCORD_MESSAGE) {
 			const lastString = "\n\n... (Too long to show)```";
 			highlightCode = highlightCode.slice(0, MAX_LENGTH_DISCORD_MESSAGE - contentLength - lastString.length) + lastString;
