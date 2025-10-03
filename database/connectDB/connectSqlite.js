@@ -4,7 +4,7 @@ module.exports = async function () {
 	const sequelize = new Sequelize({
 		dialect: "sqlite",
 		host: path,
-		logging: false
+		logging: false 
 	});
 
 	const threadModel = require("../models/sqlite/thread.js")(sequelize);
