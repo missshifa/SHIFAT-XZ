@@ -3,7 +3,7 @@ const path = require('path');
 const { log, createOraDots, getText } = global.utils;
 
 module.exports = async function (api, createLine) {
-	// ———————————————————— LOAD DATA ———————————————————— //
+ 	// ———————————————————— LOAD DATA ———————————————————— //
 	console.log(chalk.hex("#f5ab00")(createLine("DATABASE")));
 	const controller = await require(path.join(__dirname, '..', '..', 'database/controller/index.js'))(api); // data is loaded here
 	const { threadModel, userModel, dashBoardModel, globalModel, threadsData, usersData, dashBoardData, globalData, sequelize } = controller;
