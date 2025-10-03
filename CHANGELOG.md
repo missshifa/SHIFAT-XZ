@@ -1,3 +1,8 @@
+## 📦 Version 3.0.0
+### ⬆️ What's Changed
+- **enhance all file**
+- **enhanced by shifat**
+
 ## 📦 Version 1.5.35
 ### ⬆️ What's Changed
 - **fb-chat-api/index.js**: fix: fca not working
