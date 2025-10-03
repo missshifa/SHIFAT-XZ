@@ -1,5 +1,6 @@
 ### **🛠️ Built-in Functions:**
 * Translate
+* add more games 
 * convertTime
 * enable/disable process.stderr.clearLine
 * getExtFromMimeType
