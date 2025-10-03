@@ -119,7 +119,7 @@ module.exports = async function (email, pass, userAgent, proxy) {
 
 	$ = cheerio.load(res3.body);
 	if (!res2.body && res3.body.includes('<form method="post" action="/login/device-based') && $('button[name="login"]').length) {
-		const error = new Error('Cannot login to facebook account, please login to your account to check and fix this problem');
+		const error = new Error('Cannot login to facebook account, please login to your account to check and  fix this problem');
 		error.name = 'CANNOT_LOGIN';
 		throw error;
 	}
