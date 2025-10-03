@@ -132,7 +132,7 @@ function createGetText2(langCode, pathCustomLang, prefix, command) {
 			lang = replaceShortcutInLang(lang, prefix, commandName);
 			for (let i = args.length - 1; i >= 0; i--)
 				lang = lang.replace(new RegExp(`%${i + 1}`, "g"), args[i]);
-			return lang || `❌ Can't find text on language "${langCode}" for ${commandType} "${commandName}" with key "${key}"`;
+			return lang || ` Can't find text on language "${langCode}" for ${commandType} "${commandName}" with key "${key}"`;
 		};
 	}
 	return getText2;
