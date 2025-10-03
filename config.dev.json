@@ -17,113 +17,224 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "",
+    "100078859776449",
     ""
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [],
-    "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
+    "listUserID": []
   },
-  "nickNameBot": "Your_Bot_Name",
-  "prefix": "/",
-  "database": {
-    "type": "sqlite",
-    "uriMongodb": "",
-    "autoSyncWhenStart": false,
-    "autoRefreshThreadInfoFirstTime": true,
-    "notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when you set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
-  },
-  "timeZone": "Asia/Dhaka",
-  "dashBoard": {
-    "enable": true,
-    "expireVerifyCode": 300000,
-    "port": 3001
-  },
-  "serverUptime": {
+  "adminOnlySystem": {
     "enable": false,
-    "port": 3001,
-    "socket": {
-      "enable": true,
-      "channelName": "uptime",
-      "verifyToken": ""
-    }
+    "ignoreCommand": []
   },
-  "autoRestart": {
-    "time": null,
-    "notes": "you can set time is interval with milisecond or cron time, example: 1000, 10000, 60000, 3600000, 86400000, 0 0 * * *,... docs: https://www.npmjs.com/package/node-cron. If you set time is 0 or false or null, the bot will not auto restart"
-  },
-  "autoUptime": {
+  "adminSystem": [
+    ""
+  ],
+  "whiteListModeSystem": {
     "enable": false,
-    "timeInterval": 180,
-    "url": "",
-    "notes": "the value of timeInterval is seconds, url is the url you want to send the request to (automatically detected for hosting glitch or replit)"
+    "listUserID": []
   },
-  "autoLoadScripts": {
+  "allUser": {
+    "ban": []
+  },
+  "allowInbox": true,
+  "autoClean": {
     "enable": false,
-    "ignoreCmds": "",
-    "ignoreEvents": "",
-    "notes": "this feature will automatically load the script when scripts have been changed, you can set ignoreCmds to ignore commands, ignoreEvents to ignore events, separate by comma or space, example: \"cmd1.js cmd2.js cmd3.js\" (without backslash)"
+    "delay": 30
   },
-  "autoRefreshFbstate": true,
-  "autoReloginWhenChangeAccount": false,
-  "autoRestartWhenListenMqttError": false,
-  "restartListenMqtt": {
-    "enable": true,
-    "timeRestart": 3600000,
-    "delayAfterStopListening": 2000,
-    "logNoti": true,
-    "notes": "the value of timeRestart and delayAfterStopListening is milisecond, You shouldn't edit this if you don't know what it is"
+  "log": {
+    "enable": true
   },
-  "notiWhenListenMqttError": {
-    "notes": "This is the message when the bot is listening to the mqtt server and the mqtt server stops working due to account problems such as: locked acc, blocked due to spam,... bot will automatically send notifications to parts of your settings. You must change enable to true to use this feature. See bot/login/handlerWhenListenHasError.js file for details on how it works",
-    "gmail": {
-      "enable": false,
-      "emailGetNoti": "",
-      "note": "Bot will use gmailAccount to send email to emailGetNoti, can send notifications to many email, separate by comma or space, example: \"example1@gmail.com example2@gmail.com\" (without backslash)"
-    },
-    "telegram": {
-      "enable": false,
-      "botToken": "",
-      "chatId": "",
-      "note": "Can send notifications to many chatId, separate by comma or space, example: \"123456789 987654321\" (without backslash)"
-    },
-    "discordHook": {
-      "enable": false,
-      "webhookUrl": "",
-      "note": "Can send notifications to many webhookUrl, separate by comma or space, example: \"https://discord.com/api/webhooks/123456789/123456789 https://discord.com/api/webhooks/987654321/987654321\" (without backslash)"
-    }
-  },
-  "hideNotiMessage": {
-    "commandNotFound": false,
-    "adminOnly": false,
-    "threadBanned": false,
-    "userBanned": false,
-    "needRoleToUseCmd": false,
-    "needRoleToUseCmdOnReply": false,
-    "needRoleToUseCmdOnReaction": false
-  },
-  "logEvents": {
-    "disableAll": false,
+  "adminUpdate": [
+    ""
+  ],
+  "event": {
     "message": true,
-    "message_reaction": true,
-    "message_unsend": true,
-    "message_reply": true,
     "event": true,
-    "read_receipt": false,
-    "typ": false,
-    "presence": false
+    "logMessage": true
   },
-  "optionsFca": {
-    "forceLogin": true,
-    "listenEvents": true,
-    "updatePresence": true,
-    "listenTyping": true,
-    "logLevel": "error",
-    "selfListen": false,
-    "selfListenEvent": true,
-    "autoMarkDelivery": false,
-    "autoReconnect": false,
-    "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
-  }
+  "rank": {
+    "enable": false,
+    "money": 200,
+    "exp": 5
+  },
+  "money": {
+    "default": 500
+  },
+  "work": {
+    "cooldownTime": 60,
+    "reward": {
+      "min": 100,
+      "max": 500
+    }
+  },
+  "daily": {
+    "cooldownTime": 86400,
+    "reward": {
+      "min": 1000,
+      "max": 3000
+    }
+  },
+  "api": {
+    "sing": {
+      "API_KEY": "",
+      "API_URL": "https://api.singsingcloud.com"
+    }
+  },
+  "userInteraction": {
+    "emoji": {
+      "like": "❤️",
+      "love": "😍",
+      "care": "🥰",
+      "haha": "😂",
+      "wow": "😮",
+      "sad": "😢",
+      "angry": "😡"
+    }
+  },
+  "gif": {
+    "enable": true,
+    "API_KEY": ""
+  },
+  "sim": {
+    "enable": false,
+    "API_KEY": "",
+    "API_URL": "https://simapi.nhnavteam.repl.co/sim"
+  },
+  "goatBotAPI": {
+    "API_KEY": "",
+    "API_URL": "https://goatbot.tk"
+  },
+  "imgurAPI": {
+    "enable": false,
+    "clientID": ""
+  },
+  "videoProcessingAPI": {
+    "API_KEY": "",
+    "API_URL": "https://videoprocessing.api.com"
+  },
+  "unsplashAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.unsplash.com"
+  },
+  "giphyAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.giphy.com/v1/gifs"
+  },
+  "openWeatherAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.openweathermap.org/data/2.5/weather"
+  },
+  "youtubeAPI": {
+    "API_KEY": "",
+    "API_URL": "https://www.googleapis.com/youtube/v3"
+  },
+  "facebookAPI": {
+    "API_KEY": "",
+    "API_URL": "https://graph.facebook.com"
+  },
+  "googleSearchAPI": {
+    "API_KEY": "",
+    "CX": "",
+    "API_URL": "https://www.googleapis.com/customsearch/v1"
+  },
+  "translationAPI": {
+    "API_KEY": "",
+    "API_URL": "https://translation.googleapis.com/language/translate/v2"
+  },
+  "removeBgAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.remove.bg/v1.0/removebg"
+  },
+  "openAIAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.openai.com/v1"
+  },
+  "tiktokAPI": {
+    "API_KEY": "",
+    "API_URL": "https://www.tiktokapi.com"
+  },
+  "spotifyAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.spotify.com/v1"
+  },
+  "bingAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.bing.microsoft.com/v7.0/news/search"
+    },
+  "githubAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.github.com"
+  },
+  "lastfmAPI": {
+    "API_KEY": "",
+    "API_URL": "https://ws.audioscrobbler.com/2.0/"
+  },
+  "newsAPI": {
+    "API_KEY": "",
+    "API_URL": "https://newsapi.org/v2/top-headlines"
+  },
+  "movieAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.themoviedb.org/3"
+  },
+  "covidAPI": {
+    "API_URL": "https://api.covid19api.com"
+  },
+  "cryptoAPI": {
+    "API_URL": "https://api.coingecko.com/api/v3"
+  },
+  "dictionaryAPI": {
+    "API_URL": "https://api.dictionaryapi.dev/api/v2/entries"
+  },
+  "exchangeRateAPI": {
+    "API_URL": "https://open.er-api.com/v6/latest"
+  },
+  "animeAPI": {
+    "API_URL": "https://api.jikan.moe/v4"
+  },
+  "memeAPI": {
+    "API_URL": "https://meme-api.com/gimme"
+  },
+  "nsfwAPI": {
+    "API_URL": "https://api.nsfwapi.xyz"
+  },
+  "ttsAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.ttsprovider.com"
+  },
+  "speechToTextAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.speechtotextprovider.com"
+  },
+  "captchaAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.captchaprovider.com"
+  },
+  "currencyAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.exchangerate.host"
+  },
+  "stockAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.stockprovider.com"
+  },
+  "emailAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.emailprovider.com"
+  },
+  "smsAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.smsprovider.com"
+    },
+  "imageProcessingAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.imageprocessing.com"
+  },
+  "locationAPI": {
+    "API_KEY": "",
+    "API_URL": "https://api.locationprovider.com"
+  },
+  "notes": "Fill in your API keys above to enable features"
 }
