@@ -12,8 +12,8 @@ Assalamualaikum Everyone!
 ![Box-shaped Image](https://i.imgur.com/yhHIP5v.jpeg)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="font-size: 24px; font-weight: bold;">ALVI BOT COMMUNITY</span><br>
-  <span> Develop By ALVI ISLAM</span>
+  <span style="font-size: 24px; font-weight: bold;">SHIFAT BOT COMMUNITY</span><br>
+  <span> Develop By MD SHIFAT</span>
 </p>
 
 -------
