@@ -23,7 +23,7 @@ setTimeout(async function autoUptime() {
 		if (status != 'ok') {
 			status = 'ok';
 			log.info("UPTIME", "Bot is online");
-			// Custome notification here
+			//  Custome notification here
 		}
 	}
 	catch (e) {
