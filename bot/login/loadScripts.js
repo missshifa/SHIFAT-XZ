@@ -70,7 +70,7 @@ module.exports = async function (api, threadModel, userModel, dashBoardModel, gl
 		for (const file of Files) {
 			const pathCommand = path.normalize(fullPathModules + "/" + file);
 			try {
-				// ————————————————— CHECK PACKAGE ————————————————— //
+				// —————————————————  CHECK PACKAGE ————————————————— //
 				const contentFile = readFileSync(pathCommand, "utf8");
 				let allPackage = contentFile.match(regExpCheckPackage);
 				if (allPackage) {
