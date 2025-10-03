@@ -35,7 +35,7 @@ module.exports = async function (databaseType, userModel, api, fakeGraphql) {
 
 	switch (databaseType) {
 		case "mongodb": {
-			// delete keys '_id' and '__v' in all users
+			// delete keys '_id' and '__v' in all users 
 			Users = (await userModel.find({}).lean()).map(user => _.omit(user, ["_id", "__v"]));
 			break;
 		}
