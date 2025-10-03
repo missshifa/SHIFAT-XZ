@@ -99,11 +99,11 @@ ___
   
 **Name:** **`𝐌𝐃 𝐒𝐇𝐈𝐅𝐀𝐓`**  
 **Nice Name:** **`𝐒𝐈𝐅𝐔`**  
-**Profession:** **`𝐎𝐍𝐋𝐈𝐍 𝐌𝐀𝐑𝐊𝐄𝐓𝐈𝐍𝐆 & 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑`**  
+**Profession:** **`𝐃𝐈𝐆𝐈𝐓𝐀𝐋 𝐌𝐀𝐑𝐊𝐄𝐓𝐈𝐍𝐆 & 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑`**  
 **Location:** **`𝐊𝐇𝐔𝐋𝐍𝐀 <> 𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇`**  
 
 ### 📞 **CONTACT INFORMATION**  
-- **WhatsApp:** **[+88](https://wa.me/+8801964467614)**  
+- **WhatsApp:** **[WHATSAPP ID](https://wa.me/+8801964467614)**  
 - **Facebook:** **[Facebook ID](https://facebook.com/100078859776449)**  
 - **Messenger:** **[Message Me](https://m.me/100078859776449)**
 
