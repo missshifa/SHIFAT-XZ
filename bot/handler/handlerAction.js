@@ -53,7 +53,7 @@ module.exports = (api, threadModel, userModel, dashBoardModel, globalModel, user
 					} 
 				}
 
-				if (event.reaction == "😠") {
+				if (event.reaction == "🙂") {
 					if (isAdmin) {
 						message.unsend(event.messageID);
 					} 
