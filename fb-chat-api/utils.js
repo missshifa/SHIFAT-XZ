@@ -1,4 +1,4 @@
-/* eslint-disable no-prototype-builtins */
+/* eslint-disable no-prototype-builtins  */
 "use strict";
 
 const chalk = require("chalk");
