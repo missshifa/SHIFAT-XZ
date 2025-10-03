@@ -1,6 +1,6 @@
 language = "nodejs"
 run = "npm start"
 
-[[ports]] 
+[[ports]]
 localPort = 3001
 externalPort = 80
