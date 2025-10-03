@@ -1,6 +1,6 @@
 module.exports = {
 	config: {
-		name: "checkwarn",
+		name: "checkwarn", 
 		version: "1.3",
 		author: "NTKhang",
 		category: "events"
