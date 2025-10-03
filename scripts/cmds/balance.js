@@ -5,7 +5,7 @@ module.exports = {
         name: "balance",
         aliases: ["bal", "money"],
         version: "1.6.9",
-        author: "Nazrul",
+        author: "SHIFAT",
         countDown: 1,
         role: 0,
         description: "View, transfer, request, or add/delete money",
