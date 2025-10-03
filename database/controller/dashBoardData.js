@@ -4,7 +4,7 @@ const path = require("path");
 const _ = require("lodash");
 const { CustomError, TaskQueue, getType } = global.utils;
 
-const optionsWriteJSON = { 
+const optionsWriteJSON = {
 	spaces: 2,
 	EOL: "\n"
 };
